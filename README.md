@@ -1,7 +1,7 @@
 ## Olá, mundo! :octocat:
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesdev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesdev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide=stars,issues"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesdev&layout=compact&langs_count=6&theme=vue-dark"/>
 </div>
 <div style="display: inline_block"><br>
