@@ -1,4 +1,4 @@
-## Olá, mundo! :octocat:
+## Hello world! :octocat:
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesdev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
@@ -13,4 +13,5 @@
   <img align="center" alt="Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Elixir" height="30" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />        
 </div>
